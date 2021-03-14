@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Priti Shaw</h1>
-- 👯 I’m looking to collaborate on **Data Science, Machine Learning and Research based projects**. And am also open to work as a **Software Developer.**
+- 👯 I’m looking to collaborate on **pritishaw2018@gmail.com**
 
 - 📫 How to reach me **pritishaw2018@gmail.com**
 
