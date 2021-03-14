@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI and Data Science.
 - 🌱 I’m currently in the final year of my B.Tech degree from SRM Institute of Science and Technology, KTR, Chennai, India.
 - 💞️ I’m looking to collaborate on Data Science, Machine Learning and Research based projects. And am also open to work as a Software Developer.
-- 📫 How to reach me 
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white 
 https://www.linkedin.com/in/pritishaw1/
 
 <!---
