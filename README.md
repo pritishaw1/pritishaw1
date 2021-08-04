@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **pritishaw2018@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1vCF_cJdub4Py3W_-Z98siDYkShSF8Po8/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1sTuON2__ZlSN2w-WZLitua8IGEm946ok/view?usp=sharing)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/pritishaw1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pritishaw1" height="30" width="40" /></a>
